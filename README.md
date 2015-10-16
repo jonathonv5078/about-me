@@ -1,5 +1,5 @@
-_Jonathon Valerio_
-_jonathonv5078@hstat.org_
+_Jonathon Valerio_  
+_jonathonv5078@hstat.org_  
 school:[HSTAT](hstat.org
 
 ##About Me:
