@@ -1,6 +1,6 @@
-_Jonathon Valerio_
-_jonathonv5078@hstat.org_
-_HSTAT
+_Jonathon Valerio_  
+_jonathonv5078@hstat.org_  
+school:[HSTAT](hstat.org)
 
 ##About Me:
 ###Jonathon Michael Valerio
@@ -12,7 +12,7 @@ ___
 3. Lunch
 4. English
 5. Chemistry
-6. US Hsitroy
+6. US History
 7. Resource
 8. SEP
 9. Gym
